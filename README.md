@@ -1,3 +1,10 @@
+[![CI](https://img.shields.io/github/actions/workflow/status/Tox1469/url-parser-kit/ci.yml?style=flat-square&label=ci)](https://github.com/Tox1469/url-parser-kit/actions)
+[![License](https://img.shields.io/github/license/Tox1469/url-parser-kit?style=flat-square)](LICENSE)
+[![Release](https://img.shields.io/github/v/release/Tox1469/url-parser-kit?style=flat-square)](https://github.com/Tox1469/url-parser-kit/releases)
+[![Stars](https://img.shields.io/github/stars/Tox1469/url-parser-kit?style=flat-square)](https://github.com/Tox1469/url-parser-kit/stargazers)
+
+---
+
 # url-parser-kit
 
 Parser, normalizador e comparador de URLs com extração de query params.
